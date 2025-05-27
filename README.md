@@ -22,10 +22,10 @@ An interactive, fully-fledged Exploratory Data Analysis (EDA) dashboard built us
 
 🧠 Technologies Used
 
-Streamlit – Rapid UI for interactive data apps.
+> Streamlit – Rapid UI for interactive data apps.
 
-Plotly Express & Graph Objects – Stunning interactive graphs (scatter, bar, area, violin, etc.).
+> Plotly Express & Graph Objects – Stunning interactive graphs (scatter, bar, area, violin, etc.).
 
-Matplotlib & Seaborn – Correlation matrix with heatmap analysis.
+> Matplotlib & Seaborn – Correlation matrix with heatmap analysis.
 
-Pandas / NumPy – Data transformation and statistical analysis
+> Pandas / NumPy – Data transformation and statistical analysis
